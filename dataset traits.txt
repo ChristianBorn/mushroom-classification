@@ -1,0 +1,25 @@
+       class cap-shape cap-surface cap-color bruises  odor gill-attachment  \
+count   8124      8124        8124      8124    8124  8124            8124   
+unique     2         6           4        10       2     9               2   
+top        e         x           y         n       f     n               f   
+freq    4208      3656        3244      2284    4748  3528            7914   
+
+       gill-spacing gill-size gill-color   ...   stalk-surface-below-ring  \
+count          8124      8124       8124   ...                       8124   
+unique            2         2         12   ...                          4   
+top               c         b          b   ...                          s   
+freq           6812      5612       1728   ...                       4936   
+
+       stalk-color-above-ring stalk-color-below-ring veil-type veil-color  \
+count                    8124                   8124      8124       8124   
+unique                      9                      9         1          4   
+top                         w                      w         p          w   
+freq                     4464                   4384      8124       7924   
+
+       ring-number ring-type spore-print-color population habitat  
+count         8124      8124              8124       8124    8124  
+unique           3         5                 9          6       7  
+top              o         p                 w          v       d  
+freq          7488      3968              2388       4040    3148  
+
+[4 rows x 23 columns]

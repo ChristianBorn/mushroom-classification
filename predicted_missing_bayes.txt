@@ -1,0 +1,2 @@
+Alle Präzisionswerte: {'Gaussian': 0.91600000000000004, 'Multinomial': 0.80523076923076919, 'Bernoulli': 0.87046153846153851}
+ Alle Zeiten in Sek: {'Gaussian': 3.718212604522705, 'Multinomial': 8.095463037490845, 'Bernoulli': 9.326533794403076}

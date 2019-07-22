@@ -1,0 +1,2 @@
+Alle Präzisionswerte: {'ball_tree,uniform': [0.99069973427812219], 'ball_tree,distance': [0.99379982285208146], 'kd_tree,uniform': [0.99069973427812219], 'kd_tree,distance': [0.9942426926483614], 'brute,uniform': [0.99025686448184236], 'brute,distance': [0.99379982285208146]}
+ Zeit für bestes Paar kd_tree,distance in Sek: 15.909909963607788

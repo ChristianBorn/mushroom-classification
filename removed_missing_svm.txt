@@ -1,0 +1,16 @@
+Kernel: linear
+ Beste Präzision: 1.0
+ Bester C-Wert: 100
+ Zeit: 53.2230441570282
+Kernel: poly
+ Beste Präzision: 1.0
+ Bester C-Wert: 0.1
+ Zeit: 8.08546257019043
+Kernel: rbf
+ Beste Präzision: 1.0
+ Bester C-Wert: 1
+ Zeit: 14.704840898513794
+Kernel: sigmoid
+ Beste Präzision: 0.749778565102
+ Bester C-Wert: 100
+ Zeit: 42.60743689537048

@@ -1,0 +1,8 @@
+Bester Durchlauf l1:
+ Präzision: 1.0
+ C-Value: 10
+ Benötigte Zeit in sek: 51.52994728088379
+Bester Durchlauf l2:
+ Präzision: 0.999557130204
+ Benötigte Zeit in sek: 13.394766092300415
+ C-Value: 100
